@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Alaa Alkhaled 👋
 
-<!--
-**AlaaAlkhaled/AlaaAlkhaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Digital Content & Brand Management
 
-Here are some ideas to get you started:
+I'm a New Media Design graduate from Jönköping University, Sweden, with a background in web development, graphic design, and digital communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about helping small businesses build and maintain a strong online presence through modern websites, engaging digital content, and consistent brand communication.
+
+### What I Focus On
+
+- **Web Development** — Building responsive, user-friendly websites.
+- **Website Management** — Updating, maintaining, and improving website content.
+- **Digital Content Management** — Organizing and creating content for digital platforms.
+- **Brand & Visual Communication** — Helping businesses maintain a consistent visual identity.
+- **UI/UX Design** — Creating intuitive and engaging digital experiences.
+
+### Skills
+
+HTML · CSS · JavaScript · Web Development · UI/UX · Content Design · Graphic Design
+
+### Portfolio
+
+🌐 [alkhaled.site](https://alkhaled.site)
